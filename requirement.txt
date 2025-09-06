@@ -1,0 +1,7 @@
+langchain
+langchain-ollama
+langchain-community
+langchain-pinecone
+dotenv
+streamlit
+pypdf
